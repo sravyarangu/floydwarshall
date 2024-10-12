@@ -1,19 +1,3 @@
-"""
- * FloydWarshall.py
- *
- * Implementation of Floyd Warshall Algorithm
- * 
- * See README for details
- * 
- * by:
- *    Ananth Murthy
- * 	  Chandan Yeshwanth
- * 
- * on:
- * 	  14th April 2014
- * 
-"""
-
 import sys 
 
 
